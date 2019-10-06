@@ -8,3 +8,4 @@ def fab(n):
 
 a=fab(9000)
 print(a)
+print("checking the functionality of git with commits")
